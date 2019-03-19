@@ -1,0 +1,1 @@
+# precognize-diagnoze
